@@ -1,0 +1,32 @@
+.nombre{ 
+	position: absolute;
+	top: 10px;
+	left: 450px;
+color: white;
+ }
+ .grado{ 
+	position: absolute;
+	top: 90px;
+	left: 600px;
+color: white;
+ }
+ .colegio{ 
+	position: absolute;
+	top: 170px;
+	left: 390px;
+color: white;
+ }
+ .perfil{
+position: absolute;
+top: 250px;
+left: 350px;
+height: 650px;
+width: 650px;
+background-size: 10px;
+background: url(foto.jpg);
+ }
+ .boton1{
+ position: absolute;
+ top: 500px;
+left: 300px;
+ }
